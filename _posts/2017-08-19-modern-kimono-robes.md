@@ -4,8 +4,8 @@ description: >-
   "Our fabrics are 100% premium, designer cotton fabrics. They are custom cut
   and sewn here in San Francisco, CA., and shipped from California Priority
   Mail." ~ Kate Favia
-dateModified: '2017-08-20T16:31:48.279Z'
-datePublished: '2017-08-20T16:31:48.434Z'
+dateModified: '2017-08-20T18:17:18.190Z'
+datePublished: '2017-08-20T18:17:18.330Z'
 title: ''
 author: []
 publisher: {}
@@ -23,4 +23,10 @@ _type: MediaObject
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9kM1qwzAQhO9-CqFDsSH-i0vjtJYLfYLQQ69FkTaxgo3EamPHb185bnsp9LIs384Ow0SNNiMzWvBhTj1ZhLQs97uqLh952-Th2EbNOr1C44jR7EBwghvlFznKlXLmUQneETn_nOfSuQzUZHSm7JCvkuziX3-sH7Qk-el6SSeLg1BWw4rCALEtyl1a1Gm550x1Ej2Q4Fc6pfUSaXVr_4_TstsBrb4qekM7ecCYq2B9tmjAHwDf7SQqvuGjgcmLMxodb4tNlbDeeIqfioSRPPawbEH1_Tp_BPVdHJgHiaq7k-UnkFDi3w6Tl9_E0VrnF2Rhevs" height="1600" style=""></iframe>
 
+[Home][0]
+
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkVFrwjAUhd_9FaFj2oImrWhxa-tDYQxffNrbGCMmNzbVJiVJu8nYf1-qFfaWe-_Hufec5Fz2SPIiEIeF0doF25z41naSW2Zk67ah6BRzUquQz5GdezZCPxOEempQ7WtRW1Qgjo_gXs7QgHK2vLzR4542ENroPf7IPC0FCv8z5WXHQy8VIQOuM2pgRiFmgDoYOa-Q-QGW3M8kv2HYGubLgBCmlQLmsKAMDlqfsAJHQH2-lsTyE67tw7c4NOcimfZgrDdR9EucxFPatjtePMXLNFmvVuk63aRpEgzq3g5uqfGr95oDlsqCcSUIbSAc7UbZ5DfkmnXDgXM0uwU186_7GYva-vWzKMpyMsY4yYeg2Zlae82a6eaaVYA4dXRRGRBFUDnX2mdCXAVHIzmmkjQnMyJfkruqCJI4fhw7qmtabZ0X3Ny_7Q8r95ZS" height="500" style=""></iframe>
+
+
+
+[0]: https://thegrid.ai/modernkimono
