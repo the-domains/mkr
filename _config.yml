@@ -1,0 +1,59 @@
+layout_spectrum: 0.034978032506043366
+typography_spectrum: 0.17247697888569224
+color:
+  brandStrength: 0.6394064299897798
+  lightness: 0.7949118068631702
+  saturation: 0.6900173379044684
+  rhythmicContrast: 0.6647020082624795
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Modern Kimono
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f9c756d-a3d2-42a9-b3d6-cc4eee66cd72.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f9c756d-a3d2-42a9-b3d6-cc4eee66cd72.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Modern Kimono
+description: ''
+purpose:
+  - type: external
+    url: 'https://thegrid.ai/contactmkr'
+    label: Contact Us
+  - type: external
+    url: 'https://thegrid.ai/blogmkr'
+    label: The Blog
+url: 'https://thegrid.ai/storemkr/'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6f77e00-2b5f-4167-b60e-21bfc014c0de.jpg
+github: true
