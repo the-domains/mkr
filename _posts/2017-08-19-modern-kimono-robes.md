@@ -4,8 +4,8 @@ description: >-
   "Our fabrics are 100% premium, designer cotton fabrics. They are custom cut
   and sewn here in San Francisco, CA., and shipped from California Priority
   Mail." ~ Kate Favia
-dateModified: '2017-08-20T15:35:28.924Z'
-datePublished: '2017-08-20T15:35:29.095Z'
+dateModified: '2017-08-20T15:35:32.736Z'
+datePublished: '2017-08-20T15:35:32.889Z'
 title: ''
 author: []
 publisher: {}
